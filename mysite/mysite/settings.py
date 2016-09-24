@@ -125,6 +125,7 @@ INSTALLED_APPS = [
     "django.contrib.sites",
     "django.contrib.staticfiles",
 
+
     # theme
     "bootstrapform",
     "pinax_theme_bootstrap",
@@ -136,6 +137,9 @@ INSTALLED_APPS = [
 
     # project
     "mysite",
+
+    # pinax ratings
+    "pinax.ratings",
 ]
 
 # A sample logging configuration. The only tangible logging
